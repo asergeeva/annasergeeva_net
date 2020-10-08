@@ -151,6 +151,13 @@ nav {
   margin: auto;
 }
 
+.home img {
+  width: 500px;
+  height: inherit;
+  padding-top: 50px;
+  margin: auto;
+}
+
 /* smartphones (portrait) ----------- */
 @media only screen and (max-width : 400px) {
 
@@ -179,6 +186,13 @@ p{
 #blacklivesmatter {
   height:105vh;
   width:65vw;
+}
+	
+.home img {
+  width: 300px;
+  height: inherit;
+  padding-top: 50px;
+  margin: auto;
 }
 	
 }
